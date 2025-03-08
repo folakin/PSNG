@@ -9,3 +9,4 @@ __pycache__/
 # Ignore system files (Mac/Linux)
 .DS_Store
 
+.idea/
